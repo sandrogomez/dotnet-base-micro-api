@@ -1,0 +1,14 @@
+@startuml
+title Project Dependency Diagram
+
+' Define components (e.g., projects, libraries, etc.)
+component "Base.API" as BaseAPI
+component "Base.Application" as BaseApplication
+component "Base.Domain" as BaseDomain
+component "Base.Infrastructure" as BaseInfrastructure
+
+
+' Define relationships
+BaseDomain <-- BaseApplication
+
+@enduml
