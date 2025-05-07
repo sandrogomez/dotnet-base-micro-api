@@ -12,4 +12,6 @@ component "Base.Infrastructure" as BaseInfrastructure
 BaseDomain <-- BaseApplication
 BaseDomain <-- BaseInfrastructure
 
+BaseInfrastructure <-- BaseAPI
+BaseApplication <-- BaseAPI
 @enduml
