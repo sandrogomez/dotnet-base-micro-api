@@ -16,6 +16,11 @@ $ dotnet new webapi -n Base.API
 $ tree Base.API
 ```
 
+## Base.Application
+```bash
+$ dotnet new classlib -n Base.Application
+$ tree Base.Application
+```
 # How build from scratch 
 
 # How to 
