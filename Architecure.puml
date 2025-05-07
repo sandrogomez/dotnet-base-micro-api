@@ -10,5 +10,6 @@ component "Base.Infrastructure" as BaseInfrastructure
 
 ' Define relationships
 BaseDomain <-- BaseApplication
+BaseDomain <-- BaseInfrastructure
 
 @enduml
