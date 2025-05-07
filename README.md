@@ -21,6 +21,13 @@ $ tree Base.API
 $ dotnet new classlib -n Base.Application
 $ tree Base.Application
 ```
+
+## Base.Domain
+```bash
+$ dotnet new classlib -n Base.Domain
+$ tree Base.Domain
+```
+
 # How build from scratch 
 
 # How to 
