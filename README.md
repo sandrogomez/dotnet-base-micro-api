@@ -6,11 +6,17 @@ This is a lightweight API write in c# as a baseline to create microservices.
 
 This project is based on clean architecture
 
-```bash
+# Structure
+Contains all necesary files to run the web api.
 
+## Base.API
+```bash
+$ mkdir src && cd src
+$ dotnet new webapi -n Base.API
+$ tree Base.API
 ```
 
-# How to Run
+# How build from scratch 
 
 # How to 
 
