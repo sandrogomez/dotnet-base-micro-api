@@ -28,6 +28,12 @@ $ dotnet new classlib -n Base.Domain
 $ tree Base.Domain
 ```
 
+## Base.Infrastructure
+```bash
+$ dotnet new classlib -n Base.Domain
+$ tree Base.Domain
+```
+
 # How build from scratch 
 
 # How to 
